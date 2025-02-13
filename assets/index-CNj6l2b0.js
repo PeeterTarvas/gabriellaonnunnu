@@ -6,16 +6,16 @@
          </h1>
         <div class="image-grid">
             <div class="animation">
-                <img src="../images/cat-01.gif" class="cat img-fluid">
+                <img src="/images/cat-01.gif" class="cat img-fluid">
             </div>
             <div class="animation">
-                <img src="../images/gabriellaonnuunnu1.jpg" class="cat img-fluid">
+                <img src="/images/gabriellaonnuunnu1.jpg" class="cat img-fluid">
             </div>
             <div class="animation">
-                <img src="../images/gabriellaonnunnu2.jpg" class="cat img-fluid">
+                <img src="/images/gabriellaonnuunnu2.jpg" class="cat img-fluid">
             </div>
             <div class="animation">
-                <img src="../images/gabriellaonnuunnu3.jpg" class="cat img-fluid">
+                <img src="/images/gabriellaonnuunnu3.jpg" class="cat img-fluid">
             </div>
         </div>
     </div>
